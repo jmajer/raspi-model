@@ -1,6 +1,6 @@
 # raspi-model
 
-python scipt that reads the revision and serial number from
+python script that reads the revision and serial number from
 /proc/cpuinfo
 and prints the particular raspberrypi model
 
